@@ -1,2 +1,2 @@
-# intro ML
- ML study
+# Intro Machine Learning
+ ML study Jam Bootcamp course.
